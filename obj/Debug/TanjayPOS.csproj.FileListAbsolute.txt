@@ -1,0 +1,39 @@
+D:\Projects\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.exe.config
+D:\Projects\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.exe
+D:\Projects\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.pdb
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Form1.resources
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Properties.Resources.resources
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csproj.GenerateResource.cache
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csproj.CoreCompileInputs.cache
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.exe
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.pdb
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csprojAssemblyReference.cache
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Stocks.resources
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.AddStock.resources
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.MainForm.resources
+D:\Projects\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.POS.resources
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.exe.config
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.exe
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\TanjayPOS.pdb
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\Google.Protobuf.dll
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\MySql.Data.dll
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\Renci.SshNet.dll
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\Google.Protobuf.xml
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\MySql.Data.xml
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\Renci.SshNet.xml
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Credits.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.AddStock.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Form1.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.MainForm.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.POS.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Properties.Resources.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Stocks.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.SalesReport.resources
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csproj.GenerateResource.cache
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csproj.CopyComplete
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.exe
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.pdb
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.csprojAssemblyReference.cache
+D:\Source code\Tanjay POS\TanjayPOS\obj\Debug\TanjayPOS.Add_Credit_UI.resources
+D:\Source code\Tanjay POS\TanjayPOS\bin\Debug\MaterialSkin.dll
